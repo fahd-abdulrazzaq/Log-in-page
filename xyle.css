@@ -1,0 +1,95 @@
+
+
+
+.top{
+ text-decoration: solid;
+}
+.info {
+    background-color:  aliceblue;
+    margin: auto;
+    height: 720px;
+    width: 650px;
+    border: 0px inset rgb(94, 74, 74);
+    text-align: center;
+    border-radius: 0px;
+    box-shadow: 20px 15px 15px rgb(112, 99, 99);}
+
+    .button{
+        
+        width: 400px;
+        height: 40px;
+        border: 6px solid  rgb(89, 89, 216);
+        border-radius: 6px;
+        background-color: rgb(89, 89, 216)
+    }
+    button:hover{
+
+        background-color: rgb(89, 89, 216);
+        width: 430px;
+        height:50px ;
+        border: 4px solid rgb(89, 89, 216); 
+    }
+    button:active{
+        background-color: aquamarine;
+    }
+  .int{
+      
+      vertical-align: middle;
+        border: 3px inset lightblue;
+        width: 300px;
+        height: 20px;
+        border-radius: 8px;
+        box-shadow: inset  3px grey;
+        
+    }
+    .bu{
+        border: 0px solid black;
+        height: 20px;
+        width: 35px;
+        border-radius: 8px;
+        box-shadow: inset 0px 1px 1px;
+    }
+    .ve{
+        
+        
+        background-color: aliceblue;
+    }
+    .img{
+        border: 2px inset white ;
+        height: 50px;
+        width: 60px;
+        padding-left: 5px;
+    }
+    boy{
+        background-color:rgb(99, 97, 97)
+    }
+    ::placeholder{
+        color: blue;
+    }
+    .info:hover{height: 750px;
+        width: 680px;
+
+    }
+    .int:hover{width: 330px;
+        height: 30px;
+        font-style: italic;
+
+    }
+    label:hover{
+        text-shadow: 2px 2px gray;
+
+        font-size: larger;
+        font-style: oblique;
+      
+    }
+    .log{
+        color: gainsboro;
+    }
+
+    .top{
+        text-transform: uppercase;
+        text-shadow: 2px 2px 3px;
+       font-style: italic;
+       font-size: xx-large;
+    }
+    
